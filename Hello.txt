@@ -1,4 +1,4 @@
 ---
-redirect_from: "/foo"
+redirect_from: "/foo2"
 ---
 Hello.
